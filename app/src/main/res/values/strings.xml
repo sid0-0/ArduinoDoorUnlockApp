@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartDoor</string>
+    <string name="read_buffer">Read Buffer</string>
+    <string name="bluetooth_status">Bluetooth Status</string>
+    <string name="on">Bluetooth ON</string>
+    <string name="off">Bluetooth OFF</string>
+    <string name="paired_device">Show paired Devices</string>
+    <string name="discover">Discover New Devices</string>
+    <string name="rx">RX:</string>
+</resources>
